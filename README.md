@@ -37,6 +37,7 @@ Full write-up with pricing details and FAQ: **[Best Crunchbase Alternatives & Co
 | [Dealroom (paid)](https://dealroom.co) | European ecosystem intelligence | Custom |
 | [VCBacked](https://www.vcbacked.co) | Outbound sales to recently funded startups: founder emails, unlimited CSV exports | $79/month or $299/year |
 | [Apollo.io](https://www.apollo.io) | General B2B prospecting and sequences | From $49/month |
+| [NexGenData Startup Funding Tracker](https://apify.com/nexgendata/startup-funding-tracker) | Lists of newly funded startups over an API: rounds from SEC Form D filings, TechCrunch and Y Combinator with company, amount, round, investors and date, as JSON or CSV | Pay per result on Apify; see the [Store page](https://apify.com/nexgendata/startup-funding-tracker) |
 | [Crunchbase](https://www.crunchbase.com) (for reference) | Broad company research | Pro about $588/year, Business about $2,388/year |
 
 Prices change; check each vendor before buying. Last reviewed October 2026.
